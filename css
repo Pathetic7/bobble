@@ -1,0 +1,32 @@
+*{
+
+margin: 0;
+padding: 0;
+}
+.hero{
+    height: 100%;
+    width: 100%;
+    background-image: url("bobble.png");
+    background-color: #fff;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.form-box{
+    width: 380px;
+    height: 480;
+    position: relative;
+    margin: 6% auto;
+    background: #fff;
+    padding: 5px;
+}
+
+.social-icons img{
+ margin: 30 px auto;
+ text-align: center;
+
+}
+.input-group{
+text-align: center;
+
+}
